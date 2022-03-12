@@ -6,7 +6,7 @@ This game is similar to Beer Pong (also called Beirut). You have an orange ball 
 
 {Provide a link to your YouTube demonstration.  It should be a 4-5 minute demo of the game being played and a walkthrough of the code.}
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/6K6tBOR-juc)
 
 # Development Environment
 
